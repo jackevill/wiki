@@ -1,4 +1,5 @@
-# 在git add 前运行 chmod +x list.sh && ./list.sh 以更新README.md
+# 在git add 前运行 
+bash list.sh 以更新README.md
 # 下载地址:
 [v2.5.3](https://coolapk-fan.github.io/wiki/Coolapk/v2.5.3.apk)
 [v2.5.4](https://coolapk-fan.github.io/wiki/Coolapk/v2.5.4.apk)
